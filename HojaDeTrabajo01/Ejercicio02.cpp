@@ -2,5 +2,7 @@
 
 bool Ejercicio02::isPalindrome(string& s)
 {
-    return false;
+	int n = s.size();
+	std::string[n] = s.size();
+	return false;
 }
